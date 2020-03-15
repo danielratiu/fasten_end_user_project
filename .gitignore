@@ -1,0 +1,9 @@
+# -----------------------------------------------------------
+# Ignore generated directories:
+# -----------------------------------------------------------
+classes_gen
+source_gen
+source_gen.caches
+pan_verifier_bin
+workspace.xml
+
